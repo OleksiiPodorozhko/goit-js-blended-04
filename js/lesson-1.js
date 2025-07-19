@@ -111,16 +111,17 @@
 // Завдання 6
 // Використайте цикл while, щоб вивести в console всі числа від 0 до 20 включно.
 
-function getNumbers() {
-  let i = 0;
+// function getNumbers() {
+//   let i = 0;
+//
+//   while (i <= 20) {
+//     console.log(i);
+//     i++;
+//   }
+// }
+//
+// getNumbers();
 
-  while (i <= 20) {
-    console.log(i);
-    i++;
-  }
-}
-
-getNumbers();
 //Завдання 7
 // Напишіть функцію getNumbers(min, max), що приймає 2 параметри -
 // мінімальне і максимальне число відповідно.
